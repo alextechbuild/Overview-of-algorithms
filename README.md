@@ -7,9 +7,9 @@ This repository contains personal mathematics notes (Markdown + LaTeX) and code 
 There may be some imprecisions, such as in the use or formalisation of quantifiers.
 This repository is provided to share concepts and ideas, and is not intended to be a definitive academic presentation. 
 Books, websites, AI tools were also used to explore certain ideas or for suggestions. A personal development, selection, and adaptation process was then performed to present the results.
-The textual explanations and the organization of the content are original. If in doubt, feel free to consult specialized sources
+The textual explanations and the organization of the content are original. 
 
-The content is written in English and French. The representation shown in the diagram (diagram.png) on the left is a custom notation specific to this repository. It is not representative of scientific notations that are already present. It shows the content of a typical part of a Markdown file and the representation can be viewed as a content block that is read from top to bottom and left to right. The dots in parentheses symbolize mathematical content
+The content is written in English and French. The representation shown in the diagram (diagram.png) on the left is a custom notation specific to this repository. It is not representative of scientific notations that are already present. It shows the content of a typical part of a Markdown file and the representation can be viewed as a content block that is read from top to bottom and left to right. The dots in parentheses symbolize mathematical content. If in doubt, feel free to consult specialized sources
 
 ---
 
