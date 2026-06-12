@@ -7,7 +7,7 @@ This repository contains personal mathematics notes (Markdown + LaTeX) and code 
 There may be some imprecisions, such as in the use or formalisation of quantifiers.
 This repository is provided to share concepts and ideas, and is not intended to be a definitive academic presentation. 
 Books, websites, AI tools were also used to explore certain ideas or for suggestions. A personal development, selection, and adaptation process was then performed to present the results.
-If in doubt, feel free to consult specialized sources
+The textual explanations and the organization of the content are original. If in doubt, feel free to consult specialized sources
 
 The content is written in English and French. The representation shown in the diagram (diagram.png) on the left is a custom notation specific to this repository. It is not representative of scientific notations that are already present. It shows the content of a typical part of a Markdown file and the representation can be viewed as a content block that is read from top to bottom and left to right. The dots in parentheses symbolize mathematical content
 
@@ -55,6 +55,21 @@ This repository contains **mixed-content files** (Markdown documents that may in
 Mathematical concepts themselves (including theorems, definitions, and standard results such as identities or inequalities) are not subject to copyright.
 Only the original expression, explanation, structure, and presentation created in this repository are covered by copyright and licensing terms.
 There may be some imprecisions, such as in the use or formalisation of quantifiers
+
+---
+
+## References for ideas and suggestions
+
+- ProofWiki — https://proofwiki.org
+- Mathematics Stack Exchange — https://math.stackexchange.com
+- Claude — https://claude.ai
+- ChatGPT — https://chatgpt.com
+- Gemini — https://gemini.google.com
+- Deepseek — https://www.deepseek.com
+- Pat Morin, Open Data Structures: An Introduction, Athabasca University Press, 2013. https://opendatastructures.org/ :contentReference[oaicite:0]{index=0}
+- Engineering LibreTexts, Open Data Structures – An Introduction (chapitres sur les algorithmes de tri et Merge Sort). https://eng.libretexts.org/Bookshelves/Computer_Science/Databases_and_Data_Structures/Open_Data_Structures_-_An_Introduction_%28Morin%29 :contentReference[oaicite:1]{index=1}
+
+These references served as sources of inspiration, ideas, and suggestions for the notes. The expression, explanation, structure, and presentation are original
 
 ---
 
