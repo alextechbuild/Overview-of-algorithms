@@ -68,6 +68,7 @@ There may be some imprecisions, such as in the use or formalisation of quantifie
 - Deepseek — https://www.deepseek.com
 - Pat Morin, Open Data Structures: An Introduction, Athabasca University Press, 2013. https://opendatastructures.org/
 - Engineering LibreTexts, Open Data Structures – An Introduction (sections on sorting algorithms and Merge Sort). https://eng.libretexts.org/Bookshelves/Computer_Science/Databases_and_Data_Structures/Open_Data_Structures_-_An_Introduction_%28Morin%29
+- Brad Miller, David Ranum, Problem Solving with Algorithms and Data Structures Using Python. https://www.openbookproject.net/books/pythonds/
 
 These references served as sources of inspiration, ideas, and suggestions for the notes. The expression, explanation, structure, and presentation are original
 
